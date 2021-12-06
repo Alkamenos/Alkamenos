@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🔭 I’m looking for a new job... my CV in Russian - https://www.notion.so/0a7e66530d67494095e05a14aab5a841
+
+🌱 I’m currently learning: Vue, GoLang, Microfrontends, UX/UI Design
+
+📫 How to reach me: alkamenos@gmail.com
+
 <!--
 **Alkamenos/Alkamenos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
